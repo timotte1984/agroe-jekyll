@@ -2,7 +2,7 @@ title: Agroé – Pôle Agroalimentaire
 logo: 'agroe.png'
 description: Accompagne les entreprises régionales dans la révolution numérique et sociétale.
 baseurl: "/agroe-jekyll" # the subpath of your site, e.g. /blog
-url: "https://timotte1984.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://timotte1984.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Author Settings
@@ -10,7 +10,7 @@ author:
   name: Agroé
   image: '/assets/img/agroe.png'
   job: Transition Numérique et Sociétale
-  bio: Créé en 2010, le pôle fédère les entreprises agrolaimentaires de la région Hauts-de-France autour de la transition numérique et sociétale. Nous proposons de la veille, des évènements et un service d'accompagnement.
+  bio: Créé en 2010, Agroé fédère les entreprises agrolaimentaires de la région Hauts-de-France autour de la transition numérique et sociétale. Nous proposons de la veille, des évènements et un service d'accompagnement.
   email: contact@agroe.com
 
 
