@@ -8,7 +8,7 @@ url: "https://timotte1984.github.io/" # the base hostname & protocol for your si
 # Author Settings
 author:
   name: Agroé
-  image: 'agroe.png'
+  image:
   job: Agroé
   bio: Nous accompagnons les entreprises agroalimentaires des Hauts-de-France dans la révolution numérique et sociétale.
   email: contact@agroe.com
