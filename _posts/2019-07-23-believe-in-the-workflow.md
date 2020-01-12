@@ -11,6 +11,9 @@ Bring to the table win-win survival strategies to ensure proactive domination. A
 
 ---
 
+<iframe width="100%" height="700px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/fr/map/entreprises-de-lagroclubrse-2019_387574?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#8/50.438/3.426"></iframe><p><a href="https://umap.openstreetmap.fr/fr/map/entreprises-de-lagroclubrse-2019_387574">Voir en plein écran</a></p>
+
+
 ## Quickly deploy strategic
 
 Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. **Nanotechnology immersion along the information** highway will close the loop on focusing solely on the bottom line. Podcasting operational change management inside of workflows to establish a framework.
