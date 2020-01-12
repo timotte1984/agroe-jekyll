@@ -42,7 +42,7 @@ plugins:
 # Pages Path
 defaults:
   - scope:
-      path: '_pages'
+      path: '_about'
     values:
       permalink: /:basename:output_ext
 
