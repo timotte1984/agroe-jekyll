@@ -2,19 +2,20 @@
 layout: page
 title: Qui sommes nous ?
 permalink: /about/
-image: '/assets/img/agroe.png'
+image: ''
 ---
 
-Hi, my name is Derrick Wells. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies.
+# Pôle des Hauts de France
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity.
+## Missions et objectifs
+### Valorisation de la filière agroalimentaire en Hauts-de-France
+Né en 2010 de la volonté de créer une dynamique dédiée à l’agroalimentaire, premier secteur industriel régional, Agroé est une association au service des entreprises de la filière et notamment des TPE et PME.
 
-***
+### Agroé a pour missions :
+d’anticiper les grands enjeux de la filière pour définir une ligne d’actions adaptées aux besoins des entreprises
+d’accompagner les entreprises agroalimentaires de façon individuelle ou collective pour répondre à leurs problématiques quotidiennes en leur proposant des ateliers, des séances d’informations, des rencontres d’affaires, des études ou encore en travaillant à la coordination de projets visant à mobiliser de multiples partenaires…
+de promouvoir la filière agroalimentaire régionale, de renforcer son attractivité et de défendre ses intérêts.
+Agroé s’appuie sur une gouvernance très représentative et une vision prospective des enjeux futurs et a donc défini deux axes jugés comme stratégiques pour la filière, sources de croissance pour les entreprises,
 
-> Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution.
-
-***
-
-Proactively envisioned multimedia based expertise and cross-media growth strategies. Seamlessly visualize quality intellectual capital without superior collaboration and idea-sharing. Holistically pontificate installed base portals after maintainable products.
-
-Phosfluorescently engage worldwide methodologies with web-enabled technology. Interactively coordinate proactive e-commerce via process-centric "outside the box" thinking. Completely pursue scalable customer service through sustainable potentialities.
+l’export : il offre de réelles opportunités pour les PME régionales désirant se développer notamment à l’export de proximité.
+la croissance durable. La maîtrise des enjeux environnementaux constitue un élément clé de compétitivité et de durabilité, vital pour le secteur agroalimentaire.
