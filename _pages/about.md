@@ -2,7 +2,7 @@
 layout: page
 title: Qui sommes nous ?
 permalink: /about/
-image: ''
+image:
 ---
 
 # Pôle des Hauts de France
