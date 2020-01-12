@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bienvenue
+title: Qui sommes-nous ?
 permalink: /about/
 image: '/assets/img/welcome.jpg'
 ---
@@ -8,6 +8,8 @@ image: '/assets/img/welcome.jpg'
 Bienvenue sur le site d'Agroé.
 
 Nous sommes un pôle agroalimentaire basé en Hauts-de-France.
+
+
 
 ## Nos missions
 
