@@ -22,14 +22,16 @@ contact:
     link: https://facebook.com/
   - name: Instagram
     link: https://instagram.com/
+  - name: youtube
+    link: https://www.youtube.com/channel/UCinUo8-stq3edw4Ozo2qRAg/
 
 
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: pleagro # add your shortname for Disqus Comment. For example mr-brown
 
 
 # Google Analytics
-google-analytics: # add your identifier. For example UA-99631805-1.
+google-analytics: UA-140671144-2 # add your identifier. For example UA-99631805-1.
 
 
 # Build settings

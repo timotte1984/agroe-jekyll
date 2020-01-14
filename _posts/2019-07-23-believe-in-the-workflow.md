@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Qui sont les adhérents d'Agroé' ?
+title:  Qui sont les adhérents d'Agroé ?
 date:   2020-01-10
 image:
-tags:   [carte, heels, chair, blog]
+tags:   [carte, rse, event, adhérents]
 ---
 
 
