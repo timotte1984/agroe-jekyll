@@ -8,9 +8,9 @@ url: "https://timotte1984.github.io" # the base hostname & protocol for your sit
 # Author Settings
 author:
   name: Agroé
-  image: '/assets/img/agroe.png'
-  job:
-  bio: Créé en 2010, Agroé fédère les entreprises agrolaimentaires de la région Hauts-de-France autour de la transition numérique et sociétale. Nous proposons de la veille, des évènements et un service d'accompagnement.
+  image:
+  job: Intéressez vous à votre performance extrafinancière
+  bio: Agroé fédère les entreprises agrolaimentaires de la région Hauts-de-France autour de la transition numérique et sociétale. Nous proposons de la veille, des évènements et un service d'accompagnement.
   email: contact@agroe.com
 
 
