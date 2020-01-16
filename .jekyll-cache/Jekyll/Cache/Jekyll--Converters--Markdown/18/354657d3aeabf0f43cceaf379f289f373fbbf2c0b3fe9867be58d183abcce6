@@ -1,4 +1,4 @@
-I"�<p>Agroé propose différents services aux entreprises qui <a href="https://timotte1984.github.io/agroe-jekyll/adhesion/"><strong>adhèrent</strong></a>.</p>
+I"<p>Agroé propose différents services aux entreprises qui <a href="https://timotte1984.github.io/agroe-jekyll/adhesion/"><strong>adhèrent</strong></a>.</p>
 
 <hr />
 
@@ -17,8 +17,11 @@ Voici aussi quelques <a href="https://agroe-website.herokuapp.com/events/58"><st
 Les adhérents ont accès à l’historique de tous les évènements (<a href="https://agroe-website.herokuapp.com/users/sign_in"><strong>Compte-Rendu</strong></a>, <a href="https://agroe-website.herokuapp.com/users/sign_in"><strong>Vidéo</strong></a> <a href="https://cloud.cestlebouquet.fr/index.php/s/DtYJEQHYQoPWGF8"><strong>Dossier partagé</strong></a>)</p>
 
 <blockquote>
-  <p>En 2019, plus de 50 entreprises différentes ont participé à nos évènements.</p>
+  <p>En 2019, plus de <strong>50 entreprises</strong> différentes ont participé à nos évènements.</p>
 </blockquote>
+
+<p><img src="https://res.cloudinary.com/julienmottet/image/upload/v1568022952/vmtbpdjxs1zohtpgd2dl.jpg" alt="" />
+<em>Visite de l’usine Fleury Michon à Tilloy-lez-Cambrai - septembre 2019</em></p>
 
 <hr />
 
@@ -48,7 +51,7 @@ Chaque source a ses critères d’éligibilités. Certaines sources sont assez f
 
 <h2 id="un-intranet">Un intranet</h2>
 
-<iframe width="840" height="472" src="https://www.youtube.com/embed/iVbNQeo1XzA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<p>Agroé met à disposition de chaque adhérent un compte intranet ou il peut retrouver l’ensemble des contenus proposés aux membres.</p>
 
 <h4 id="vos-login-et-mot-de-passe-sont-à-demander-par-email-à-jmottetagroefr">Vos <strong>login</strong> et <strong>mot de passe</strong> sont à demander par email à j.mottet@agroe.fr</h4>
 
@@ -59,6 +62,8 @@ Chaque source a ses critères d’éligibilités. Certaines sources sont assez f
   <li>Tous les contenus créés et en particulier une <a href="https://agroe-website.herokuapp.com/users/sign_in"><strong>veille approfondie</strong></a> sur la RSE.</li>
   <li>(<em>bientôt</em>) Des dossiers thématisés (Emballages Durable, Confiance, RSE pour les nuls…).</li>
 </ul>
+
+<iframe width="840" height="472" src="https://www.youtube.com/embed/iVbNQeo1XzA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <hr />
 

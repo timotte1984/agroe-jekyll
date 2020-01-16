@@ -1,16 +1,30 @@
-I"�<p><strong>Nous sommes un pôle agroalimentaire basé en Hauts-de-France.</strong></p>
+I"<p><strong>Nous sommes un pôle agroalimentaire basé en Hauts-de-France.</strong></p>
+
+<hr />
 
 <h2 id="notre-conviction">Notre conviction</h2>
 
-<p>Les entreprises agroalimentaires de la région ne tiennent pas suffisamment compte <strong>les critères extrafinanciers</strong> dans leurs décisions stratégiques.
+<p>Les entreprises agroalimentaires de la région ne tiennent pas suffisamment compte <strong>des critères extrafinanciers</strong> dans leurs décisions stratégiques.
 Ceci a pourtant des impacts à court, moyen et long terme sur la performence de leur entreprise.</p>
+
+<hr />
 
 <h2 id="notre-mission">Notre mission</h2>
 
-<p>Que les entreprises agroalimentaires régionales se lancent dans des <strong>démarches RSE</strong>, non pas par contrainte mais en étant convaincues que cette initiative sera <strong>créatrice de valeur économique</strong> pour l’entreprise.</p>
+<p>Que les entreprises agroalimentaires régionales se lancent dans des démarches RSE <strong>structurées</strong>, non pas par contrainte mais convaincues que l’initiative sera <strong>créatrice de valeur économique</strong>.</p>
+
+<hr />
 
 <h2 id="nos-modes-dactions">Nos modes d’actions</h2>
-<p>Nous proposons des évènements pour rencontrer d’autres entreprises et des experts, des visites, des contenus techniques (dossiers, veille) et un service d’accompagnement individuel. Toutes les informations sont disponibles dans la section <a href="https://timotte1984.github.io/agroe-jekyll/service/"><strong>service</strong></a> de ce site.</p>
+<p>Nous proposons :</p>
+<ul>
+  <li>des évènements pour rencontrer d’autres entreprises et des experts.</li>
+  <li>des visites.</li>
+  <li>des contenus techniques (dossiers, veille).</li>
+  <li>un service d’accompagnement individuel.</li>
+</ul>
+
+<p>Toutes les informations sont disponibles dans la section <a href="https://timotte1984.github.io/agroe-jekyll/service/"><strong>service</strong></a> de ce site.</p>
 
 <hr />
 
@@ -29,7 +43,7 @@ Ceci a pourtant des impacts à court, moyen et long terme sur la performence de 
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center">Cheffe de projet</td>
+      <td style="text-align: center">Chef de projet</td>
       <td style="text-align: center">Délégué Général</td>
       <td style="text-align: center">Chargé de Misson</td>
       <td style="text-align: center">Assistante de direction</td>
@@ -43,9 +57,14 @@ Ceci a pourtant des impacts à court, moyen et long terme sur la performence de 
   </tbody>
 </table>
 
+<hr />
+
 <h3 id="nos-coordonnées">Nos coordonnées</h3>
-<p>Tél. : <strong>03.27.70.15.80</strong>
-Email : <strong>contact@agroé.fr</strong></p>
+
+<p>Tél. : <strong>03.27.70.15.80</strong> <br />
+Email : <strong><a href="contact@agroé.fr">contact@agroé.fr</a></strong></p>
+
+<hr />
 
 <h3 id="la-localisation-de-nos-locaux">La localisation de nos locaux.</h3>
 <p>Actuellement nous sommes hébergés dans les locaux de la communauté urbaine de Cambrai au <strong>14 rue Neuve à Cambrai</strong>.</p>
@@ -69,8 +88,6 @@ BP 70175
 <blockquote>
   <p>Nous avons été créé en 2010.</p>
 </blockquote>
-
-<hr />
 
 <h4 id="membre-du-bureau-de-lassocation">Membre du bureau de l’assocation</h4>
 <ul>
