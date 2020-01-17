@@ -9,20 +9,20 @@ url: "https://timotte1984.github.io" # the base hostname & protocol for your sit
 author:
   name: Agroé
   image:
-  job: Améliorez votre performance extrafinancière.
-  bio: Agroé accompagne les entreprises agrolaimentaires de la région Hauts-de-France dans la structuration de leur démarches de responsabilité sociétale des entreprises (RSE).
+  job: Améliorez votre performance extrafinancière
+  bio: Agroé accompagne les entreprises agrolaimentaires de la région Hauts-de-France dans la structuration de leur démarche de responsabilité sociétale des entreprises (RSE).
   email: contact@agroe.com
 
 
 # Contact links
 contact:
   - name: Twitter
-    link: https://twitter.com/
+    link: https://twitter.com/agroe_i?lang=fr
   - name: Facebook
-    link: https://facebook.com/
-  - name: Instagram
-    link: https://instagram.com/
-  - name: youtube
+    link: https://www.facebook.com/profile.php?id=100011465318774&__tn__=%2CdK-R-R&eid=ARAQfQrUTT6V9lhViLl_dnCVOtw7tD2PFWkUzm5qUMhX1QGtuQ2_VfV1IWD9x1o7tPT6gJdH9SsaFcBN&fref=mentions
+  - name: LinkedIn
+    link: https://www.linkedin.com/company/agroe62/?viewAsMember=true
+  - name: Youtube
     link: https://www.youtube.com/channel/UCinUo8-stq3edw4Ozo2qRAg/
 
 
