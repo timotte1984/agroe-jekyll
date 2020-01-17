@@ -1,0 +1,20 @@
+@media (min-width: 650px) and (max-width: 1880px) {
+  .smallscreen-calendar-container{
+    display: none
+  }
+}
+
+
+
+
+@media (min-width: 320px) and (max-width: 650px){
+  .bigscreen-calendar-container{
+  display : none;
+  }
+  .smallscreen-calendar-container{
+    display: flex;
+    justify-content: center;
+  }
+}
+
+
