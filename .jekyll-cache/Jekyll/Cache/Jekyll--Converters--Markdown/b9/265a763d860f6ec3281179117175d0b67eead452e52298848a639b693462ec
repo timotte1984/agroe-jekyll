@@ -1,4 +1,4 @@
-I"<p>Agroé propose différents services aux entreprises qui <a href="https://timotte1984.github.io/agroe-jekyll/adhesion/"><strong>adhèrent</strong></a>.</p>
+I"�<p>Agroé propose différents services aux entreprises qui <a href="https://timotte1984.github.io/agroe-jekyll/adhesion/"><strong>adhèrent</strong></a>.</p>
 
 <hr />
 
@@ -49,21 +49,21 @@ Chaque source a ses critères d’éligibilités. Certaines sources sont assez f
 
 <hr />
 
-<h2 id="un-intranet">Un intranet</h2>
+<div id="intranet"><h2> Un intranet </h2> </div>
 
-<p>Agroé met à disposition de chaque adhérent un compte intranet ou il peut retrouver l’ensemble des contenus proposés aux membres.</p>
-
-<h4 id="vos-login-et-mot-de-passe-sont-à-demander-par-email-à-jmottetagroefr">Vos <strong>login</strong> et <strong>mot de passe</strong> sont à demander par email à j.mottet@agroe.fr</h4>
+<p>Agroé met à disposition de chaque adhérent un compte intranet ou il peut retrouver l’ensemble des contenus proposés aux membres (CR, photos, présentations…).</p>
 
 <p>Les 4 contenus principaux proposés sur l’intranet sont :</p>
 <ul>
   <li>Les informations de tous les évènements (présentation, CR, photos, vidéos, audios)</li>
   <li>les informations concernant les autres adhérents (coordonnées et compétences RSE).</li>
-  <li>Tous les contenus créés et en particulier une <a href="https://agroe-website.herokuapp.com/users/sign_in"><strong>veille approfondie</strong></a> sur la RSE.</li>
+  <li>Tous les contenus créés et en particulier une <strong>veille approfondie</strong> sur la RSE.</li>
   <li>(<em>bientôt</em>) Des dossiers thématisés (Emballages Durable, Confiance, RSE pour les nuls…).</li>
 </ul>
 
 <iframe width="840" height="472" src="https://www.youtube.com/embed/iVbNQeo1XzA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<h4 id="vos-login-et-mot-de-passe-sont-à-demander-par-email-à-jmottetagroefr">Vos <strong>login</strong> et <strong>mot de passe</strong> sont à demander par email à j.mottet@agroe.fr</h4>
 
 <hr />
 
