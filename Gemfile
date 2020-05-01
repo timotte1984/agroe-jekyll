@@ -6,8 +6,5 @@ gem 'jekyll-tagging'
 
 
 group :jekyll_plugins do
-  gem 'airtable'
-  gem 'bigdecimal'
-  gem 'activesupport'
-  gem "json"
+ gem 'airrecord'
 end
