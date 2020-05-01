@@ -20,6 +20,16 @@ layout: default
   </section>
   <!-- end author -->
 </div>
+
+{% for item in site.data.airtable %}
+
+<p>{{item.Entreprise}}</p>
+{% if  item.logo %}
+<img src="{{item.logo[0].url}}" alt={{item.Entreprise}} />
+{% endif %}
+
+{% endfor %}
+
 <!-- Do not display this image at the moment
 <div class="container">
   {% if site.posts.size > 0 %}
