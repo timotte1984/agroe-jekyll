@@ -3,3 +3,7 @@ gem "bundler"
 gem "jekyll"
 gem "jekyll-sitemap"
 gem 'jekyll-tagging'
+gem 'airtable'
+gem 'bigdecimal'
+gem 'activesupport'
+gem "json"
