@@ -9,7 +9,7 @@ url: "https://timotte1984.github.io" # the base hostname & protocol for your sit
 author:
   name: Agroé
   image:
-  job: Pôle des entreprises agroalimentaires des Hauts-de-France engagées et connectées.
+  job: Pôle des entreprises agroalimentaires des Hauts-de-France engagées.
   bio: Besoin de nouvelles idées pour votre politique RSE ? D'un avis indépendant sur certains outils numériques ? D'un petit coup de pouce pour le financement d'un projet ?
   email: j.mottet@agroe.com
 
@@ -40,7 +40,6 @@ permalink: pretty
 plugins:
   - jekyll-sitemap
   - jekyll/tagging
-  - airtableimport
 
 # Pages Path
 defaults:
