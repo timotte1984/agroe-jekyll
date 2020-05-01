@@ -40,10 +40,7 @@ permalink: pretty
 plugins:
   - jekyll-sitemap
   - jekyll/tagging
-  - airtable
-  - json
-  - bigdecimal
-  - activesupport
+  - airtableimport
 
 # Pages Path
 defaults:
