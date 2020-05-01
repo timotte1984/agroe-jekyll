@@ -18,3 +18,16 @@
 }
 
 
+
+
+.images-container{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.image-content img{
+  max-height: 100px;
+}
+
+

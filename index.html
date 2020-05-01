@@ -18,20 +18,11 @@ layout: default
       </div>
     </div>
   </section>
-  <!-- end author -->
 </div>
 
-{% for item in site.data %}
-  {% for i in item[1] %}
-    {% for item2 in i[0] %}
+<!--
 
-<img src=" {{ item2[1] }}" alt="">
-    <p>test2</p>
-  {% endfor %}
-    {% endfor %}
-{% endfor %}
-
-<!-- .first["url"] if record["Logo"] != nil
+.first["url"] if record["Logo"] != nil
 Do not display this image at the moment
 <div class="container">
   {% if site.posts.size > 0 %}
