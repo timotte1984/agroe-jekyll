@@ -10,7 +10,7 @@ require 'airrecord'
 end
 
  File.open("_data/entreprises.json", "w") do |f|
-    data = @data.all.map { |record| record["Logo"].first["url"] if record["Logo"] != nil}
+    data = @data.all.map { |record| record["Logo"]}
     dataclean = data.reject { |e| e.to_s.empty? }
     f.write(dataclean.to_json)
 end
