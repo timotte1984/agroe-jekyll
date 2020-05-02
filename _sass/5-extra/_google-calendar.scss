@@ -18,7 +18,9 @@
 }
 
 
-
+.icon-home{
+  font-size: 40px;
+}
 
 .images-container{
   display: flex;
@@ -27,7 +29,8 @@
 }
 
 .image-content img{
-  max-height: 100px;
+  max-height: 50px;
+  margin: 20px;
 }
 
 
