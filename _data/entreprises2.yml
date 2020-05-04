@@ -593,22 +593,22 @@
         url: https://dl.airtable.com/.attachmentThumbnails/72d3074396720e5a0901bc964e5dcac9/eb0d53de
         width: 3000
         height: 3000
-- - id: attcJ1On4despw4mc
-    url: https://dl.airtable.com/.attachments/8a55e7cb5a2d9644535e6b59504b0052/554d4b48/Capturedecran2020-05-03a15.03.23.png
-    filename: Capture d’écran 2020-05-03 à 15.03.23.png
-    size: 101049
+- - id: attRLz6QH3ew2SB6k
+    url: https://dl.airtable.com/.attachments/a3f9d50ef8607cdcef1bf6f9f24ab385/022830de/image001.png
+    filename: image001.png
+    size: 15510
     type: image/png
     thumbnails:
       small:
-        url: https://dl.airtable.com/.attachmentThumbnails/f06578a1d4e6089856c642f5042399a8/761c4086
-        width: 43
+        url: https://dl.airtable.com/.attachmentThumbnails/2a529909ded28b79217841a82f0e712d/03781022
+        width: 107
         height: 36
       large:
-        url: https://dl.airtable.com/.attachmentThumbnails/82893163c81e481621266764cba41368/1415970c
-        width: 256
-        height: 212
+        url: https://dl.airtable.com/.attachmentThumbnails/f1405426fa44f00857f5601c15c40ded/ec4db279
+        width: 231
+        height: 78
       full:
-        url: https://dl.airtable.com/.attachmentThumbnails/40639c16fd2b347ac6d87883c1071d9d/181ddb7b
+        url: https://dl.airtable.com/.attachmentThumbnails/e8bd3e2a79946698d6f63e0ffece1831/78473e92
         width: 3000
         height: 3000
 - - id: atthyBVaNoF0sd8CE
